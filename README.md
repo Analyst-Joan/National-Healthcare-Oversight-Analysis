@@ -1,5 +1,6 @@
 # National-Healthcare-Oversight-Analysis
-![Healthcare-Oversight Dashboard Overview](overview.JPG)
+
+![Healthcare-Oversight Dashboard Overview](Overview.png)
 
 ## Business Problem
 National healthcare oversight organizations and insurance partners require timely, data-driven insights to 
@@ -24,6 +25,7 @@ Source: Onyx Data – DataDNA April 2025 Challenge
 Records: 55,000+ patient records
 Coverage: 10 major U.S. hospitals
 Time Period: Multi-year patient admission data
+
 ** Key Fields:
  - Patient demographics (Age group, Gender)
  - Admission type
@@ -33,8 +35,7 @@ Time Period: Multi-year patient admission data
  - Medication
  - Insurance provider
  - Hospital and geographic region
-
-rd storytelling aligned to healthcare stakeholder use cases
+ - End-to-end dashboard storytelling aligned to healthcare stakeholder use cases
 
   ## Tools Used
 - Power BI
