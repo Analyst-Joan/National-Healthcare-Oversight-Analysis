@@ -1,6 +1,6 @@
 # National-Healthcare-Oversight-Analysis
 
-![Healthcare-Oversight Dashboard Overview](Overview.png)
+![Healthcare-Oversight Dashboard Overview](Overview.jpg)
 
 ## Business Problem
 National healthcare oversight organizations and insurance partners require timely, data-driven insights to 
