@@ -21,12 +21,12 @@ patterns, and care disparities early enough for proactive intervention.
 - Cost of Care by Medical Condition
 
 ## Dataset
-Source: Onyx Data – DataDNA April 2025 Challenge
-Records: 55,000+ patient records
-Coverage: 10 major U.S. hospitals
-Time Period: Multi-year patient admission data
+- Source: Onyx Data – DataDNA April 2025 Challenge
+- Records: 55,000+ patient records
+- Coverage: 10 major U.S. hospitals
+- Time Period: Multi-year patient admission data
 
-** Key Fields:
+**Key Fields:**
  - Patient demographics (Age group, Gender)
  - Admission type
  - Medical condition / diagnosis
