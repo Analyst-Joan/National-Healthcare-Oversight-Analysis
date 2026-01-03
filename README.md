@@ -1,5 +1,5 @@
 # National-Healthcare-Oversight-Analysis
-![-Healthcare-Oversight Dashboard Overview](overview.jpg)
+![Healthcare-Oversight Dashboard Overview](overview.JPG)
 
 ## Business Problem
 National healthcare oversight organizations and insurance partners require timely, data-driven insights to 
@@ -67,21 +67,24 @@ rd storytelling aligned to healthcare stakeholder use cases
   *(e.g., Hypertension and Arthritis have similar lengths of stay but very different costs).*
 - Elective admissions dominate, with Females and Seniors (65+) accounting for over 50% of total admissions.
 - Houston Methodist Hospital accounts for over 40% of total patient admissions.
-
-  ![-Healthcare-Oversight Dashboard Overview](Clinical_Insights.png)
-  
 - Hypertension and Diabetes are the top diagnosed medical conditions, with distinct age-group patterns.
+  
+  ![Healthcare-Oversight Dashboard Overview](Clinical_Insights.png)
+  
 - Obesity and Hypertension are the highest cost drivers, while Arthritis incurs the lowest cost.
 - Asthma patients are not covered under Aetna and Cigna insurance providers.
+
+ ![Healthcare-Oversight Dashboard Overview](Financial_Insights.png)
+  
 - The Midwest/South region leads in total cost of care ($0.64bn), driven by high patient volume.
 
-![-Healthcare-Oversight Dashboard Overview](Financial_Insights.png)
+![Healthcare-Oversight Dashboard Overview](Regional_Insights.png)
 
 ## Recommendations
- ** Healthcare Administrators
-  * Focus preventive care and chronic disease management on high-volume hospitals and regions.
+### Healthcare Administrators
+- Focus preventive care and chronic disease management on high-volume hospitals and regions.
 
-** Physicians & Medical Teams
+### Physicians & Medical Teams
 - Prioritize proactive management of Hypertension, Diabetes, and Obesity to reduce long-term costs.
 
 ### Insurance Partners
@@ -97,15 +100,13 @@ This dashboard enables healthcare administrators and insurance partners to:
 ## Deliverables
 - Interactive Power BI Healthcare Analytics Dashboard
 
-🔗 **Live Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiNzcxNmY5YTMtYTJiNC00MTc5LWIxYjgtZTljMmMxNjg0ODdhIiwidCI6ImFiMTA0YzYwLTZkZTYtNDc1ZC1hMjBmLTg5M2Y2OWQ2NzlhNCJ9&pageName=7419f664ec665ddaa087
+🔗 **Live Dashboard:** [Link](https://app.powerbi.com/view?r=eyJrIjoiNzcxNmY5YTMtYTJiNC00MTc5LWIxYjgtZTljMmMxNjg0ODdhIiwidCI6ImFiMTA0YzYwLTZkZTYtNDc1ZC1hMjBmLTg5M2Y2OWQ2NzlhNCJ9&pageName=7419f664ec665ddaa087)
 
 
 ## Skills Demonstrated
 - Healthcare data analysis and interpretation
 - Power BI data modeling and star schema design
 - DAX measures for KPIs and advanced calculations
-- Trend and variance analysis (YoY, period comparisons)
 - Cost and utilization analysis
-- Risk segmentation and cohort analysis
 - Multi-page dashboard design with data storytelling
 - Stakeholder-focused insight communication
